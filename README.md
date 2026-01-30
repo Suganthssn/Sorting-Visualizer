@@ -49,27 +49,6 @@ bubble-sort-visualizer/
 ├── script.js
 └── README.md
 
-⚙️ Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/your-username/bubble-sort-visualizer.git
-
-
-Open the project folder
-
-Run index.html in your browser
-
-🎮 How to Use
-
-Click Generate Array to create random bars.
-
-Click Start Sorting.
-
-Watch Bubble Sort comparisons and swaps visually.
-
-Adjust speed if available.
-
 📘 Learning Outcomes
 
 Understanding Bubble Sort logic
